@@ -41,6 +41,7 @@ Para contribuir a este como desarrollador o artista visual se recomienda enfocar
 Para contribuir a este proyecto como investigador se recomienda enfocarse en los componentes INDICE GRAFICO DE PAZ y OPERACIONES ESTADISTICAS. 
 
 Creditos: 
+
 Mauricio Sedano - Diseño
 Ana Maria Galvez Yepez - Narrativas de Paz
 Daniela Mejia - 
