@@ -1,5 +1,6 @@
 # plataforma-opx
-Project name: Plataforma OPx
+Nombre del proyecto: 
+Plataforma OPx
 
 Description: 
 OPx originalmente hace referencia al proyecto Observatorio de Paz y Convivencia. 
@@ -40,7 +41,6 @@ Para contribuir a este como desarrollador o artista visual se recomienda enfocar
 Para contribuir a este proyecto como investigador se recomienda enfocarse en los componentes INDICE GRAFICO DE PAZ y OPERACIONES ESTADISTICAS. 
 
 Creditos: 
-Include a section for credits in order to highlight and link to the authors of your project.
 Mauricio Sedano - Diseño
 Ana Maria Galvez Yepez - Narrativas de Paz
 Daniela Mejia - 
@@ -56,4 +56,5 @@ David Murillo
 Carlos Andres Perez Briseño
 
 
-License: Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s licensing guide!
+Licencia:
+Copia, modifique y cree atribuyendo apropiadamente
